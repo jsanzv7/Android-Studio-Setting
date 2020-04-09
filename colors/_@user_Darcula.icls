@@ -3,7 +3,7 @@
     <property name="created">2020-04-06T19:42:47</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.21</property>
-    <property name="modified">2020-04-07T21:34:55</property>
+    <property name="modified">2020-04-08T21:17:10</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -24,4 +24,18 @@
     <option name="FILESTATUS_addedOutside" value="8f9d6a" />
     <option name="FILESTATUS_modifiedOutside" value="cf6a4c" />
   </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
