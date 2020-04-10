@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/udacity/ud839_Miwok.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jsanzv7/ud839_Miwok.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\juans\StudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\JS1\StudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
